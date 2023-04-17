@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS Praktikum KOST</string>
+    <string name="kamar">Kamar</string>
+    <string name="Penghuni">Penghuni: </string>
+    <string name="hbul">Harga Bulanan: </string>
+    <string name="hSem">Harga Semester: </string>
+    <string name="Keterangan">Keterangan: </string>
+</resources>
